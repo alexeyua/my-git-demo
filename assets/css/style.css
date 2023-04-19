@@ -1,6 +1,7 @@
 h1 {
-color: red;
+    color: red;
 }
 h2 {
-    color: green;
+    color: rgb(28, 0, 128);
+    background: yellow;
 }
